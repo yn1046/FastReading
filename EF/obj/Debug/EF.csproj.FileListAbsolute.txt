@@ -1,0 +1,10 @@
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\bin\Debug\EF.dll.config
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\bin\Debug\EF.dll
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\bin\Debug\EF.pdb
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\bin\Debug\EntityFramework.dll
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\bin\Debug\EntityFramework.xml
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\obj\Debug\EF.csprojResolveAssemblyReference.cache
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\obj\Debug\EF.dll
+C:\Users\Васёк\documents\visual studio 2017\Projects\FastReading\EF\obj\Debug\EF.pdb
